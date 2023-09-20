@@ -2,11 +2,6 @@
 
 This guide explains how to create a Docker image for the OCS Inventory Server setup.
 
-## Prerequisites
-
-- [Docker](https://docs.docker.com/get-docker/)
-- A basic understanding of Docker and Dockerfiles
-
 ## Steps
 
 ### Step 1: Clone the repository

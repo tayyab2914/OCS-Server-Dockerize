@@ -14,7 +14,7 @@ docker build -t ocs-inventory-server:latest .
 docker run -d -p 80:80 --name ocs-inventory-server ocs-inventory-server:latest
 
 ### Step 4: Access the OCS Inventory Server
-Open a web browser and navigate to http://localhost 
+Open a web browser and navigate to http://localhost:80 
 Log in with the default credentials (admin/admin) to verify the server's functionality.
 
 
